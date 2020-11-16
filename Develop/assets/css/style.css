@@ -12,7 +12,7 @@ body {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 /* Changed the background color to improve readability with a higher contrast */
-    background-color: #034264;
+    background-color: #02507a;
     color: #ffffff;
 }
 
@@ -23,7 +23,7 @@ body {
 
 .header h1 .seo {
 /* Changed the color of the "seo" to make it more visible for color-blind users */
-    color: #080808;
+    color: #000000;
 }
 
 .header nav {
