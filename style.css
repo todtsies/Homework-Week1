@@ -23,7 +23,7 @@ body {
 
 .header h1 .seo {
 /* Changed the color of the "seo" to make it more visible for color-blind users */
-    color: #000000;
+    color: #999999;
 }
 /* Changed what was "div" to "nav" */
 .header nav {
